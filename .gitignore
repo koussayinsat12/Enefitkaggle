@@ -1,0 +1,16 @@
+/.venv
+/client.csv
+/county_id_to_name_map.json
+/county_lon_lats.csv
+/electricity_prices.csv
+/enefit
+/example_test_files
+/forecast_weather.csv
+/gas_prices.csv
+/historical_weather.csv
+/public_timeseries_testing_util.py
+/requirements.txt
+/train.csv
+/weather_station_to_county_mapping.csv
+**.csv
+target.csv
